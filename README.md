@@ -52,8 +52,11 @@ This software was made for personal **education** and **sandbox testing**
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
 ```diff
-v2.0 ⋮ 2024-17-24
+v2.0.0 ⋮ 2024-17-24
 - Création du selfbot
+
+v2.0.6 ⋮ 2024-17-24
+- Fix des commandes rainbowrole, vlocker, sinfo, update
 ```
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
